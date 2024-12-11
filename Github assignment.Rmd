@@ -1,0 +1,30 @@
+---
+title: "Github assignment"
+output: html_document
+date: "2024-12-11"
+---
+
+Week 1
+  I learned how to make and use Rmarkdownw files
+  I learned the basics of modeling
+Week 2
+  I learned how to use ggplot
+  I learned the difference between exploratory and explanatory analysis
+Week 3
+  I learned the basic assumptions of linear regression
+  I learned how to interpret relationship equations for linear regression
+Week 4
+  I learned what classification is
+  I learned how to do Logistic regression
+Week 5
+  I learned the uses of GLMs
+  I learned how to make GLMs
+Week 6
+  I learned how to make tree based models, such as decision trees and randon fortests
+  I learned the upsides and downsides of gradient boosting machines
+Week 7
+  I learned how to find the optimal number of clusters in cluster analysis
+  I learned how to do cluster analysis
+Week 8
+  I learned how to make presentations in R
+  I learned was Github is and how to use it
